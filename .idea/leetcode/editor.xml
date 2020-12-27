@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/../PycharmProjects/leetcodePrograming /leetcode/editor/cn/[1]两数之和.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../PycharmProjects/leetcodePrograming /leetcode/editor/cn/[1]两数之和.py" />
+              <option name="questionId" value="1" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PycharmProjects/leetcodePrograming /leetcode/editor/cn/[242]有效的字母异位词.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../PycharmProjects/leetcodePrograming /leetcode/editor/cn/[242]有效的字母异位词.py" />
+              <option name="questionId" value="242" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PycharmProjects/leetcodePrograming /leetcode/editor/cn/[387]字符串中的第一个唯一字符.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../PycharmProjects/leetcodePrograming /leetcode/editor/cn/[387]字符串中的第一个唯一字符.py" />
+              <option name="questionId" value="387" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PycharmProjects/leetcodePrograming /leetcode/editor/cn/[589]N叉树的前序遍历.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../PycharmProjects/leetcodePrograming /leetcode/editor/cn/[589]N叉树的前序遍历.py" />
+              <option name="questionId" value="775" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PycharmProjects/leetcodePrograming /leetcode/editor/cn/[94]二叉树的中序遍历.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../PycharmProjects/leetcodePrograming /leetcode/editor/cn/[94]二叉树的中序遍历.py" />
+              <option name="questionId" value="94" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
